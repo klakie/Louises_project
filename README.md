@@ -1,6 +1,6 @@
 # Louise's awesome project
 
-June 30
+2023-06-30
 Bla *bla bla* bla bla
 - [ ] Part 1
 - [ ] Part 2
